@@ -1,0 +1,10 @@
+# MockMaster - Zero-dependency CLI tool
+# No external dependencies required!
+# Pure Python 3.8+ implementation using only standard library
+
+# Optional: For development and testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
